@@ -24,7 +24,7 @@ Each service will have its own database
 - @EnableConfigServer
 
 #### Zipkin
--distributed log tracing
+- distributed log tracing
 - gives logs of all requests and entire trace of log
 - uses micrometer observability
 - localhost:9411
